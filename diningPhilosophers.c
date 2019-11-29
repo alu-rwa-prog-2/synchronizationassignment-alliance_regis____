@@ -4,6 +4,7 @@ DINING PHILOSOPHERS
 Group members:
 Alliance Mbonigaba
 Regis Ishimwe
+Christian Rebero Twahirwa
 
 */
 
